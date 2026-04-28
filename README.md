@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا سهران ليله والقلب سهران
+> شوقي في عيوني يروي الحرمان
+> أسمع نبض روحك في كل مكان
+> حبك هو النور في هذا الزمان
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
