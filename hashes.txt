@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sahran Leleh
+
+This log tracks the cryptographic history and versioning for the song **Sahran Leleh** (sahran-leleh).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T06:07:51.749487 | `v1` | `93bc435c4f71f3e9e3be56c65f66565f0c9fd677c75551171aa1ac53d8a53aff` | `87e52b2e5b5e264a112835172de488d5dbb938cfb16fb67cc68b4c9f202e94c7` | `2026-05-09_sahran-leleh-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
